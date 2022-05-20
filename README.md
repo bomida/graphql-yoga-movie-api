@@ -16,9 +16,9 @@ GraphQL-Yoga를 이용해 영화 앱을 위한 Movie API를 만들어보았습�
 <br/>
 
 ## Study Note
-[Movie API 만들기(2)-Server 생성](https://velog.io/@bomida/GraphQL-Movie-API-만들기)
-[ Movie API 만들기(3)-Schema](https://velog.io/@bomida/GraphQL-Movie-API-만들기2)
-[Movie API 만들기(4)-Mutation](https://velog.io/@bomida/GraphQL-Movie-API-만들기3-Mutation)
+[Movie API 만들기(2)-Server 생성](https://velog.io/@bomida/GraphQL-Movie-API-만들기)<br/>
+[ Movie API 만들기(3)-Schema](https://velog.io/@bomida/GraphQL-Movie-API-만들기2)<br/>
+[Movie API 만들기(4)-Mutation](https://velog.io/@bomida/GraphQL-Movie-API-만들기3-Mutation)<br/>
 [Movie API 만들기(5)-Wrapping](https://velog.io/@bomida/GraphQL-Movie-API-만들기5-Wrapping)
 
   <br>
